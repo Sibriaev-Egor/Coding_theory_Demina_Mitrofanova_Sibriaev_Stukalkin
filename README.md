@@ -1,4 +1,4 @@
-# Coding_theory_Demina_Mitrophanova_Sibriaev_Stukalkin
+# Coding_theory_Demina_Mitrofanova_Sibriaev_Stukalkin
 Работу выполнили студенты группы 6404:
 * Дёмина Н.
 * Митрофанова М.
